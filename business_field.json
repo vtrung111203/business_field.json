@@ -1,8 +1,10 @@
-[
-    "business_field_1",
-    "business_field_2",
-    "business_field_3",
-    "business_field_4",
-    "business_field_5",
-    "business_field_6"
-]
+{
+    "businessField": [
+        "business_field_1",
+        "business_field_2",
+        "business_field_3",
+        "business_field_4",
+        "business_field_5",
+        "business_field_6"
+    ]
+}
