@@ -1,20 +1,16 @@
 {
-    "businessField": [
-        "One",
-        "Two",
-        "Three",
-        "Four",
-        "Five",
-        "Six",
-        "Seven"
-    ],
-    "additionalField": [
-        "Alpha",
-        "Beta",
-        "Gamma",
-        "Delta",
-        "Epsilon",
-        "Zeta",
-        "Eta"
-    ]
+  "businessField": [
+    { "value": "#", "label": "One" },
+    { "value": "#", "label": "Two" },
+    { "value": "#", "label": "Three" },
+    { "value": "#", "label": "Four" },
+    { "value": "#", "label": "Five" },
+    { "value": "#", "label": "Six" },
+    { "value": "#", "label": "Seven" }
+  ],
+  "additionalField": [
+    { "value": "#", "label": "Eight" },
+    { "value": "#", "label": "Nine" },
+    { "value": "#", "label": "Ten" }
+  ]
 }
